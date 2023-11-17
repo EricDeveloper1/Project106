@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.copy_right_footer {
+    padding-top: 180;
+    padding-left: 1300;
+    color: gray;
+}
